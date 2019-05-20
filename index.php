@@ -1,1 +1,1 @@
-<?php header( 'Location: /godaddy.html' ) ;  ?>
+<?php header( 'Location: .well-known/pki-validation/godaddy.html' ) ;  ?>
